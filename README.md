@@ -1,0 +1,2 @@
+# umd
+umd global assignments
